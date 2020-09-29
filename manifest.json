@@ -1,15 +1,15 @@
 {
   "manifest_version": 2,
-  "name": "把 google 首頁旋轉",
-  "description": "旋轉180度讓你看的不清不楚",
+  "name": "海豹軟綿神器",
+  "description": "讓海豹可以好好軟綿的好東西",
   "version": "1.0.0",
   "icons": {
-    "16": "icon.png",
-    "48": "icon.png",
-    "128": "icon.png"
+    "16": "icon2.PNG",
+    "48": "icon2.PNG",
+    "128": "icon2.PNG"
   },
   "browser_action": {
-    "default_icon": "icon.png",
+    "default_icon": "icon2.PNG",
     "default_popup": "popup.html"
   },
   "permissions": [
@@ -18,7 +18,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://www.google.com.tw/*"
+        "https://www.netflix.com/*"
       ],
       "js": [
         "execute.js"

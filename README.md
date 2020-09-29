@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-<img src="https://https://github.com/rrrjjj2019/Netflix-extension/blob/master/demo2.gif" width="438" style="margin-right:5px; border: 1px solid #ccc;" />
+<img src="https://github.com/rrrjjj2019/Netflix-extension/blob/master/demo2.gif" width="438" style="margin-right:5px; border: 1px solid #ccc;" />
 </p>
 
 <br>
